@@ -1,1 +1,1 @@
-repo session
+Read me in the directory.
